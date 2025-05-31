@@ -1,8 +1,13 @@
 {
-  "SkyboxBk": "rbxassetid://16280166028",
-  "SkyboxDn": "rbxassetid://16280166028",
-  "SkyboxFt": "rbxassetid://16280166028",
-  "SkyboxLf": "rbxassetid://16280166028",
-  "SkyboxRt": "rbxassetid://16280166028",
-  "SkyboxUp": "rbxassetid://16280166028"
+  "activePlaceId": "8737602449",
+  "skyboxes": {
+    "9876543210": {
+     "SkyboxBk": "rbxassetid://16280166028",
+     "SkyboxDn": "rbxassetid://16280166028",
+     "SkyboxFt": "rbxassetid://16280166028",
+     "SkyboxLf": "rbxassetid://16280166028",
+     "SkyboxRt": "rbxassetid://16280166028",
+     "SkyboxUp": "rbxassetid://16280166028"
+    }
+  }
 }
